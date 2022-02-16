@@ -43,4 +43,4 @@ print('Product of two arrays is:',product)
 ![OUTPUT](/IMAGES/img22.png)
 
 ## RESULT:
-Hence the numpy module is imported and the programme is succefuuly executed to find the product of two matrices.
+Hence the numpy module is imported and the program is successfully executed to find the product of two matrices.
